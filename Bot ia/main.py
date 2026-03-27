@@ -31,6 +31,6 @@ async def cargar(ctx):
     else:        
         await ctx.send("No encuentro ningún archivo")
         
-bot.run("MTQyMTIzNDI4OTY5NzA5OTc4Ng.Gpct6Y.00tylggpHLt9f6_yXN5zDOT6-pyQfQZl0e4Bxs")
+bot.run("")
 
     
